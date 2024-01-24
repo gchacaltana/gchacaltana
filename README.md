@@ -2,9 +2,11 @@
 
 <p><img src="https://github-profile-trophy.vercel.app/?username=gchacaltana&title=Experience,MultiLanguage,LongTimeUser,Commits,Repositories,Stars,Followers" alt="gchacaltana" /> </p>
 
-- 🖥️ **Tech Stack (Backend)**: Python (DRF), JS (Adonis JS, Express), PHP (Laravel, CodeIgniter, Symfony)
+- 🖥️ **Tech Stack (Backend)**: Python (DRF, Flask), JS (Express, AdonisJS), PHP (Laravel, CodeIgniter, Symfony)
 
 - 🎯 **Tech Stack (Frontend)**: React, VueJS, Javascript, CSS, HTML5.
+
+- 🧮 **Tech Stack (Database)**: PostgreSQL, MySQL, MongoDB, Redis, CouchDB 
 
 - 📝 When I have a space of time, I usually write in [solocodigoweb.com](https://solocodigoweb.com)
 
