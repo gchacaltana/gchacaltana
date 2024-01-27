@@ -8,7 +8,7 @@
 
 - 🧮 **Tech Stack (Database)**: PostgreSQL, MySQL, MongoDB, Redis, CouchDB 
 
-- 📝 When I have a space of time, I usually write in [solocodigoweb.com](https://solocodigoweb.com)
+- 📝 When I have some free time, I usually write in [solocodigoweb.com](https://solocodigoweb.com)
 
 <h3>Connect with me:</h3>
 <p>
