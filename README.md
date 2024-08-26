@@ -18,6 +18,4 @@
 <h3>Tech Stack & Tools:</h3>
 <p> <img src="https://skillicons.dev/icons?i=python,django,flask,php,laravel,symfony,typescript,javascript,nodejs,react,nextjs,java,spring,rabbitmq,mongo,mysql,postgresql,redis,gcp,aws,azure,vuejs,html,css,bootstrap,nginx,docker,kubernetes,cloudflare,kafka" /> </p>
 
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gchacaltana&show_icons=true" alt="gchacaltana" /></p>-->
-
-<p><img src="https://streak-stats.demolab.com?user=gchacaltana&show_icons=true" alt="gchacaltana" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gchacaltana&theme=tokyonight_duo)](https://github.com/gchacaltana)
