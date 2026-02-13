@@ -2,7 +2,7 @@
 
  I'm Gonzalo Chacaltana, Software Engineer with experience in backend development, cloud architecture, and data-driven solutions. Passionate about building scalable systems, exploring Data & AI Stack, and sharing knowledge with the community.
 
-Sharing ideas about software engineering at [SoloCodigoWeb](https://solocodigoweb.com) | [dev.to](https://dev.to/gchacaltana) | [GitHub Gists](https://gist.github.com/gchacaltana)
+Sharing ideas about software engineering at [SoloCodigoWeb](https://solocodigoweb.com) | [dev.to](https://dev.to) | [GitHub Gists](https://gist.github.com/gchacaltana)
 
 Let's connect! Feel free to reach me on [LinkedIn](https://linkedin.com/in/gchacaltanab)
 
@@ -10,10 +10,14 @@ Let's connect! Feel free to reach me on [LinkedIn](https://linkedin.com/in/gchac
 
 ### GitHub Stats
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gchacaltana&theme=tokyonight_duo&hide_border=true)](https://github.com/gchacaltana)
+<p align="center">
+<a href="https://github.com/gchacaltana"><img src="https://github-readme-streak-stats.herokuapp.com?user=gchacaltana&theme=tokyonight_duo&hide_border=true" alt="GitHub Streak" /></a>
+</p>
 
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gchacaltana&theme=tokyo-night&hide_border=true)](https://github.com/gchacaltana)
+<p align="center">
+<a href="https://github.com/gchacaltana"><img src="https://github-readme-activity-graph.vercel.app/graph?username=gchacaltana&theme=tokyo-night&hide_border=true" alt="Activity Graph" /></a>
+</p>
 
 ---
 
